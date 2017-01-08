@@ -17,4 +17,9 @@ class Prueba
     {
         return "5";
     }
+
+    public function direccion()
+    {
+        return "calle";
+    }
 } 
