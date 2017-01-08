@@ -12,4 +12,9 @@ class Prueba
     {
         return "nombre";
     }
+
+    public function edad()
+    {
+        return "5";
+    }
 } 
